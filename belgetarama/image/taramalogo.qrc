@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>TARALOGO.png</file>
+    <file>caftelleblacktexttt@4x.png</file>
+    <file>copkutusulogo.png</file>
+    <file>NewLogoIET-100.ico</file>
+    <file>maillogo.png</file>
+    <file>NewLogoIET-100.jpg</file>
+    <file>taramalogo.png</file>
+  </qresource>
+</RCC>
